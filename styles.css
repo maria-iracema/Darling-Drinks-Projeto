@@ -1,0 +1,230 @@
+
+body{
+    background-color: black;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    background-color: #A1080D;
+    padding: 5px;
+}
+
+#cabe{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:80px;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    border-bottom: #A1080D;
+    border-width: 5px;
+    border-style: solid;
+}
+
+.home{
+    color:aliceblue;
+}
+
+.produtos{
+    color:aliceblue;
+}
+
+.ocasion{
+    color: aliceblue;
+}
+#foo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15vw;
+    padding-top: 5vw;
+}
+
+#brand{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color:aliceblue;
+}
+
+
+#inicio{
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:aliceblue;
+}
+
+#firstpic{
+    width: 20vw;
+    height: 20vw;
+}
+
+#secondpic{
+    width: 20vw;
+    height: 20vw;
+}
+
+#threepic{
+    width: 20vw;
+    height: 20vw;
+}
+
+#fourpic{    
+    width: 27vw;
+    height: 20vw;
+    
+}
+
+.pic{
+    gap: 50px;
+    text-align: center; 
+    border: 1px solid;
+    color:aliceblue;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3{
+    color: aliceblue;
+}
+
+#video{
+    width: 640px; 
+    height: 360px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+#videopart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.namenec{
+    color: orange;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.necterineimg{ 
+    width: 27vw;
+    height: 27vw;
+    gap: 50px;
+}
+
+#necterinedesc{
+    color:black;
+    justify-content: left;
+    font-size: 35px;
+
+}
+
+#rec{
+    background-color: antiquewhite;
+    text-align: center;
+    border: 1px solid; 
+}
+.despicone{
+    color:beige;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+#ref{
+    color: aliceblue;
+}
+
+#contrato{
+    color:aliceblue;
+
+}
+
+#fale{
+    color:aliceblue;
+}
+
+#regulamento{
+    color:aliceblue;
+}
+#ocasioninicio{
+    color:aliceblue;
+    font-size: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+.churras{
+    text-align: center;
+    border: 1px solid; 
+    
+}
+
+#churrasco{
+    color: aliceblue;
+    font-size: 50px;
+    color: aliceblue;
+    background-color: #A1080D;
+    padding: 5px;
+}
+
+#cerveja{
+    color: aliceblue;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#imgcerveja{
+    width: 37vw;
+    height: 30vw;
+}
+
+#descerveja{
+    color: aliceblue;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#caipirinha{
+    color: aliceblue;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#imgcapirinha{
+    width: 37vw;
+    height: 30vw;
+}
+
+#desccaipirinha{
+    color: aliceblue;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    font-family: 'Times New Roman', Times, serif;
+}
